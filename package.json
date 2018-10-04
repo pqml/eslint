@@ -1,6 +1,6 @@
 {
   "name": "@internet/eslint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Personal ESLint config based on Standard",
   "source": "index.js",
   "main": "index.js",
@@ -12,7 +12,7 @@
   "author": "pqml <hugo.piquemal@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "eslint": "^5.6.0",
+    "eslint": "^5.6.1",
     "eslint-config-standard": "^12.0.0",
     "eslint-config-standard-jsx": "^6.0.2",
     "eslint-plugin-import": "^2.14.0",
