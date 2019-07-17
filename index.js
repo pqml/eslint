@@ -4,5 +4,8 @@ module.exports = {
     "react": {
       "pragma": "h"
     }
+  },
+  "rules": {
+    "indent": ["error", "tab"]
   }
 }
